@@ -7,9 +7,8 @@
 
 <h1>
   Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
-  
-  <div id="lbadges" align="right">
-  <a href=https://www.linkedin.com/in/oliver-pavlidis-82a1b9244>  </a> 
+ <div id="lbadges" align="right">
+  <a href=https://www.linkedin.com/in/oliver-pavlidis-82a1b9244/>  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
 
