@@ -10,7 +10,7 @@
  <div id="lbadges" align="right">
   <a href=https://www.linkedin.com/in/oliver-pavlidis-82a1b9244/>  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </div>
+  </a> </div>
 
 
 👀 I’m Oliver.
