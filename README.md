@@ -20,7 +20,7 @@
 📫 oli.pavlidis@gmail.com
 
 
-
+<!--
 ### :fire: My Stats :
 
 ![01iverr GitHub stats](https://github-readme-stats.vercel.app/api?username=01iverr&show_icons=true&theme=dracula)
@@ -28,3 +28,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01iverr&layout=compact&theme=vision-friendly-dark)
 
+-->
